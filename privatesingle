@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="ja_JP">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="ALL">
+    <meta name="keywords" content="神戸, 三宮, 英会話, マンツーマン, レッスン, 安い, 料金, 格安">
+    <meta name="description" content="神戸市三宮駅近く│英会話ハウスリアライズの格安英会話！ネイティブ講師とマンツーマンが3500円">
+    <meta name="author" content="英会話 リアライズ">
+    <meta name="title" content="英会話　プライベートレッスン (マンツーマン)　| 英会話　神戸　三宮　3500円マンツーマン | 英会話 リアライズ">
+    <title>英会話　プライベートレッスン (マンツーマン)　| 英会話　神戸　三宮　3500円マンツーマン | 英会話 リアライズ</title>
+
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link href="https://www.realizeenglish.com/templates/cah_ndeso/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link href="https://plus.google.com/113226908607732007798" rel="publisher">
+    <meta property="og:title" content="英会話リアライズ">
+    <meta property="og:type" content="school">
+    <meta property="og:url" content="https://www.realizeenglish.com/">
+    <meta property="og:image" content="https://www.realizeenglish.com/images/Realize.jpg">
+    <meta property="og:site_name" content="神戸　三宮　マンツーマン　英会話　リアライズ">
+    <meta property="fb:admins" content="542465876">
+    
+    <style>
+        * { box-sizing: border-box; }
+        html { font-size: 10px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+        body { overflow-x: hidden; font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+        article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; }
+        .navbar { position: relative; min-height: 50px; margin-bottom: 20px; border: 1px solid transparent; }
+        .navbar-fixed-bottom, .navbar-fixed-top { position: fixed; right: 0px; left: 0px; z-index: 1030; }
+        .navbar-fixed-top { top: 0px; border-width: 0px 0px 1px; }
+        .navbar-default { border-color: transparent; background-color: rgb(34, 34, 34); }
+        .container { padding-right: 15px; padding-left: 15px; margin-right: auto; margin-left: auto; }
+        .container-fluid > .navbar-collapse, .container-fluid > .navbar-header, .container > .navbar-collapse, .container > .navbar-header { margin-right: -15px; margin-left: -15px; }
+        button, input, optgroup, select, textarea { margin: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; color: inherit; }
+        button { overflow: visible; }
+        button, select { text-transform: none; }
+        button, html input[type="button"], input[type="reset"], input[type="submit"] { -webkit-appearance: button; cursor: pointer; }
+        button, input, select, textarea { font-family: inherit; font-size: inherit; line-height: inherit; }
+        .navbar-toggle { position: relative; float: right; padding: 9px 10px; margin-top: 8px; margin-right: 15px; margin-bottom: 8px; border: 1px solid transparent; border-radius: 4px; background-image: none; background-color: transparent; }
+        .navbar-default .navbar-toggle { border-color: rgb(254, 209, 54); background-color: rgb(254, 209, 54); }
+        .sr-only { position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px 0px 0px 0px); border: 0px; }
+        .navbar-toggle .icon-bar { display: block; width: 22px; height: 2px; border-radius: 1px; }
+        .navbar-default .navbar-toggle .icon-bar { background-color: rgb(255, 255, 255); }
+        .navbar-toggle .icon-bar + .icon-bar { margin-top: 4px; }
+        a { color: rgb(254, 209, 54); }
+        a, a:hover, a:focus, a:active, a.active { outline: 0px; }
+        .navbar-brand { float: left; height: 50px; padding: 15px; font-size: 18px; line-height: 20px; }
+        .navbar-default .navbar-brand { color: rgb(254, 209, 54); font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 400; letter-spacing: 1px; }
+        .collapse { display: none; }
+        .navbar-collapse { padding-right: 15px; padding-left: 15px; overflow-x: visible; border-top-width: 1px; border-top-style: solid; border-top-color: transparent; box-shadow: rgba(255, 255, 255, 0.0980392) 0px 1px 0px inset; }
+        .navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse { max-height: 340px; }
+        .navbar-default .navbar-collapse, .navbar-default .navbar-form { border-color: rgb(231, 231, 231); }
+        .navbar-default .navbar-collapse { border-color: rgba(255, 255, 255, 0.0196078); }
+        ol, ul { margin-top: 0px; margin-bottom: 10px; }
+        .nav { padding-left: 0px; margin-bottom: 0px; list-style: none; }
+        .navbar-nav { margin: 7.5px -15px; }
+        .hidden { display: none !important; }
+        .nav > li { position: relative; display: block; }
+        .nav > li > a { position: relative; display: block; padding: 7px; }
+        .navbar-nav > li > a { padding-top: 10px; padding-bottom: 10px; line-height: 20px; }
+        .navbar-default .navbar-nav > li > a { color: rgb(119, 119, 119); }
+        .navbar-default .nav li a { font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif; text-transform: uppercase; font-weight: 400; letter-spacing: 0px; color: rgb(255, 255, 255); font-size: 1.2em; }
+        .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover { color: rgb(85, 85, 85); background-color: rgb(231, 231, 231); }
+        .navbar-default .navbar-nav > .active > a { border-radius: 0px; color: rgb(255, 255, 255); background-color: rgb(254, 209, 54); }
+        header { text-align: center; color: rgb(255, 255, 255); background-image: url("../img/header-bg.jpg"); background-attachment: scroll; background-size: cover; background-position: 50% 50%; }
+        header .intro-text { padding-top: 100px; padding-bottom: 50px; }
+        header .intro-text .intro-lead-in { font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: italic; font-size: 22px; line-height: 22px; margin-bottom: 25px; }
+        header .intro-text .intro-heading { font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif; text-transform: uppercase; font-weight: 700; font-size: 50px; line-height: 50px; margin-bottom: 25px; }
+    </style>
+</head>
+
+<body id="page-top" class="index">
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-17125702-2', 'auto');
+  ga('send', 'pageview');
+
+</script>    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="https://www.realizeenglish.com/">神戸 三宮 英会話 リアライズ</a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden"><a href="#page-top"></a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#teachers">英会話講師</a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/demolesson">無料体験レッスン</a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#starterslesson">スターターズレッスン</a></li>
+                    <li><a class="page-scroll" href="/reservation">ご予約</a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#access">アクセス</a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#contact">お問い合わせ</a></li>
+                    <li><a class="page-scroll" href="http://blog.realizeenglish.com" target="_blank">ブログ</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-lead-in">神戸・三宮 英会話 リアライズ</div>
+                <div class="intro-heading">料金</div>
+            </div>
+        </div>
+    </header>
+
+    <section id="fullfees">
+        <div class="container">
+            <div class="row text-center">
+                <strong><span style="white-space:nowrap">神戸・三宮　英会話リアライズ</strong>の</span> <span style="white-space:nowrap">マンツーマンレッスン</span>
+                <br><span style="white-space:nowrap">10回パッケージで、ネイティブ講師との</span> <span style="white-space:nowrap">マンツーマンレッスンが1レッスン3333円!!(税別)</span> 
+                <br><br>
+                <img alt="50 minute lessons" height="45" src="https://www.realizeenglish.com/images/50mins.jpg" title="50 minute lessons" width="160">
+                <img alt="Native teachers" height="45"   src="https://www.realizeenglish.com/images/Native.jpg" title="Native teachers" width="160">
+                <img alt="No time limit on packages" height="44" src="https://www.realizeenglish.com/images/NoExpiry.jpg" title="No time limit on packages" width="160"> 
+                <img alt="No registration fee" height="44" src="https://www.realizeenglish.com/images/NoRegFee.jpg" title="No registration fee" width="160">
+                <br>
+　             <br><img src="img/fee.png" width="340">
+                <br>
+                <br><span style="white-space:nowrap">1～2回：単価4500円(税込み4860円)</span> 
+		<br><span style="white-space:nowrap">3～9回：単価4000円(税込み4320円)</span> 
+		<br><span style="white-space:nowrap">10回：単価3333円(税込み3600円)</span>
+		<br><span style="white-space:nowrap">→割引適用で単価3241円(税込み3500円)</span>
+		<br><span style="white-space:nowrap">使用期限なし♪</span>  
+		<br><span style="white-space:nowrap">お好きな回数を選べます!!</span>
+                <br>
+		<br><img src="img/FastNoTax.png" width="340">
+		<br>
+		<br>
+                <strong><span style="color: #3366ff;">【継続の生徒様にお得な割引】</span></strong>
+                <br>
+                <br><img src="img/zizenkonyu.png" width="340">
+ <!--               <br>
+                <br><a href="https://www.realizeenglish.com/starterslesson" title="神戸　三宮　英会話　リアライズ　Starters Info"><img alt="英会話講師 Kazusa" src="./img/startersprice.png" title="Kazusa先生 Info"></a>
+ -->               <br>
+                <br>紹介割引：
+                <br><span style="white-space:nowrap">お友達が10回パッケージを購入すると</span> <span style="white-space:nowrap">両名に1000円割引</span>
+                <br><span style="white-space:nowrap">お友達が10回未満のパッケージを購入すると</span> <span style="white-space:nowrap">両名に500円割引</span>
+                <br>
+                <br>
+                <hr size="2">
+                <strong><span style="color: #3366ff;">【キャンセルポリシー】</span></strong>
+                <br><span style="white-space:nowrap">前日22時までのキャンセルや</span> <span style="white-space:nowrap"> レッスン日の振り替えは無料です。</span><br>
+                <br><span style="white-space:nowrap"><strong>神戸・三宮 英会話リアライズ</strong>で無理なく、</span> <span style="white-space:nowrap">無駄なく英会話を楽しみましょう！</span><br>
+                <br>
+                <br><span style="white-space:nowrap"><strong>神戸・三宮 英会話リアライズ</strong>では、</span> <span style="white-space:nowrap">忙しくてなかなか時間を取れない方の為に、</span> 
+                <br><span style="white-space:nowrap">受講回数の規定や制限は設けておりません。</span> <span style="white-space:nowrap">自分のペースでの受講が可能です。</span>
+                <br>
+                <br>
+                <hr size="2">
+                <br><strong><span style="color: #3366ff;">【リアライズのマンツーマンレッスン】</span></strong>
+                <br><span style="white-space:nowrap"><strong>神戸・三宮 英会話リアライズ</strong>のレッスンは</span> <span style="white-space:nowrap">１コマ５０分です。(連続受講も可能です)</span>
+                <br><br><span style="white-space:nowrap">これは大手英会話教室よりも２５%も長い</span> <span style="white-space:nowrap">レッスン時間となっています。</span>
+                <br>
+                <br><span style="white-space:nowrap">自分のレベルやペースに合わせて</span> <span style="white-space:nowrap">たっぷり練習出来ます。</span>
+                <br>
+                <br><img src="https://www.realizeenglish.com/images/stories/m2m/m2m.jpg" width="360">
+                <br>破壊価格のマンツーマン英会話レッスン！
+                <br>
+                <br>
+                <hr size="2">
+                <br>
+                <img src="img/guest.png" width="340">               <br><br>
+                <br><span style="color: #3366ff;"><strong>【ゲスト招待 － グループレッスン】</strong></span>
+                <br><span style="white-space:nowrap">1名様ワンコインの追加料金でお友達や</span> <span style="white-space:nowrap">ご家族とご一緒にグループレッスンを</span> <span style="white-space:nowrap">受けることも可能です</span><br>
+                <br><span style="white-space:nowrap">ゲストとなる方が始めてレッスンを受ける際は</span> <span style="white-space:nowrap">体験レッスンとして追加料金を</span> <span style="white-space:nowrap">無料にすることも可能です。</span>
+                <br><span style="white-space:nowrap">（ただし、その方は無料体験レッスンを</span> <span style="white-space:nowrap">受講できなくなります）</span><br>
+                <br>
+                <br><span style="white-space:nowrap">マンツーマンレッスンとグループレッスンの</span> <span style="white-space:nowrap">組み合わせも自由なので忙しい方との</span> <span style="white-space:nowrap">スケージュール調整も簡単！</span>
+                <br>
+                <br><span style="white-space:nowrap">神戸・三宮 英会話ハウスリアライズで</span> <span style="white-space:nowrap">お友達と一緒に楽しく英会話を学びましょう。</span>
+                <br>
+                <br><img src="https://www.realizeenglish.com/images/stories/group/group.jpg" width="360">
+                <br>
+                <br><hr size="2">
+                <br>
+                <br><img src="https://www.realizeenglish.com/images/stories/freeDrink/Free-Drinks.jpg" width="360">
+                <br><br><strong><span style="color: #3366ff;">【レッスンの特徴】</span></strong>
+                <br>
+                <br>・ドリンクサービス
+                <br>・レッスンのノートは講師がパソコンで作成
+                <br>・レッスン中は大きなモニターで解りやすい!
+                <br>・プレッシャーのない、リラックスした快適な空間
+                <br>・メンバーのみなさんの好きな話題でレッスン可能
+                <br>・レッスンの録音も無料（ご希望の方のみ）
+                <br>・自分の希望通りにレッスン可能
+                <br><span style="white-space:nowrap">・宿題や仕事での英語文書や新聞記事など</span> <span style="white-space:nowrap">持ち込み可能</span>
+                <br><span style="white-space:nowrap">・<span style="color: #3366ff;">トイック・英検・ビジネス英語・旅行英語</span></span> <span style="white-space:nowrap">などリクエスト可</span>
+                <br>
+                <br><hr size="2">
+                <br>
+                <br><h4><strong><span style="color: #3366ff;"><span style="white-space:nowrap">神戸・三宮 英会話リアライズは</span> <span style="white-space:nowrap">自信を持って、登録金や入会金を</span> <span style="white-space:nowrap">いただきません！</span></strong>
+                <br></span></h4>
+                <br>
+                <br><span style="white-space:nowrap">私たちは、生徒のみなさんと</span> <span style="white-space:nowrap"><span style="color: #3366ff;">「制約でしばられない関係」</span>を築きます。</span>
+                <br>
+                <br>
+                <br><span style="white-space:nowrap"><strong>神戸・三宮 英会話リアライズ</strong>は、</span> 
+                <br><span style="white-space:nowrap">大きな契約を交わしたり</span> <span style="white-space:nowrap">有効期限付きのポイント制度で</span>
+                <br><span style="white-space:nowrap">生徒の皆さんに</span> <span style="white-space:nowrap">プレッシャーを与える事を望んでいません。</span>
+                <br>
+                <br><strong>神戸・三宮 英会話リアライズ</strong>では、
+                <br>入会していただくための契約書を作ったり、
+                <br>莫大な入会金を請求することはありません。
+                <br>
+                <br><span style="white-space:nowrap">レッスンの品質や満足感、</span> <span style="white-space:nowrap">英語を使う環境に参加したいという</span>
+                <br>みなさんの強い思いが、<strong>神戸・三宮 英会話リアライズ</strong>に
+                <br>通うモチベーションであるべきだと考えているからです。
+                <br>
+                <br>
+                <br>
+                <div class="container">
+                    <div class="intro-text">
+                        <a href="https://www.realizeenglish.com/#fees" class="page-scroll btn btn-xl">戻る</a><br><br>
+                        <a href="#page-top" class="page-scroll btn btn-xl">トップに戻る</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p class="large text-muted" style="color:#ff6600;"><strong><span style="white-space:nowrap">ご質問やお問い合わせはお気軽に</span> <span style="white-space:nowrap">神戸・三宮 英会話リアライズまで</span> <span style="white-space:nowrap">お問い合わせ下さい。</span>
+                    <br><br><span style="white-space:nowrap">神戸・三宮 英会話リアライズへのご連絡は</span> <span style="white-space:nowrap"> 『<a href="https://www.realizeenglish.com/#contact"> お問い合わせ </a>』　からご覧下さい。</span></strong></p>
+                </div>
+                <br><br><br><br><br><br>
+                <div class="col-md-4">
+                    <h4 class="text-muted" style="color: #ff6600;">営業時間</h4>
+                    <p class="text-muted" style="color: #ff6600;">月曜日 14:00 - 22:00
+                    <br>水・木・金曜日 12:00 - 22:00
+                    <br>土曜日 10:00 - 22:00
+                    <br>日曜日 10:00 - 19:00</p>
+                </div>
+                <div class="col-md-4">
+                    <h4 class="text-muted" style="color: #ff6600;">Eメール</h4>
+                    <p class="text-muted" style="color: #ff6600;">realizenglish@gmail.com
+                    <br>contact@realizeenglish.com</p>
+                </div>
+                <div class="col-md-4">
+                    <h4 class="text-muted" style="color: #ff6600;">電話番号</h4>
+                    <p class="text-muted" style="color: #ff6600;">078-200-5920
+                    <br>※少人数のためお電話は大変繋がりにくいです。<br><a href="https://www.realizeenglish.com/#contact">コンタクトフォーム</a>をご利用下さい。
+                    <br>※当日の予約状況により<br>営業時間が変更します。</p>
+                </div>
+                <br>
+            </div>
+        </div>
+    </section>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/agency.css" rel="stylesheet">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/agency.js"></script>
+</body>
+</html>

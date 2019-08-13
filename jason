@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="ja_JP">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="ALL">
+    <meta name="keywords" content="英会話　神戸, 英会話　三宮, 　英会話　マンツーマン, 英会話ハウス　リアライズ, Jason">
+    <meta name="description" content="神戸市三宮駅近くの英会話ハウス。入会金、テキスト料０円！マンツーマンレッスンが安い！講師は大手英会話スクールで経験を積んだネイティブスピーカーですので、レッスン品質に自信があります！ネイティブ講師があなたにピッタリのレッスンをカスタマイズし、あなたの英語学習を徹底サポートします。Jasonの学習スタイル">
+    <meta name="author" content="英会話 リアライズ">
+    <meta name="title" content="Jason | 英会話　神戸　三宮　3500円マンツーマン  | 英会話 リアライズ">
+    <title>Jason | 英会話　神戸　三宮　3500円マンツーマン  | 英会話 リアライズ</title>
+
+    
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link href="https://www.realizeenglish.com/templates/cah_ndeso/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link href="https://plus.google.com/113226908607732007798" rel="publisher">
+    <meta property="og:title" content="英会話リアライズ">
+    <meta property="og:type" content="school">
+    <meta property="og:url" content="https://www.realizeenglish.com/">
+    <meta property="og:image" content="https://www.realizeenglish.com/images/Realize.jpg">
+    <meta property="og:site_name" content="神戸　三宮　マンツーマン　英会話　リアライズ">
+    <meta property="fb:admins" content="542465876">
+    
+    <style>
+        * { box-sizing: border-box; }
+        html { font-size: 10px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+        body { overflow-x: hidden; font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+        article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; }
+        .navbar { position: relative; min-height: 50px; margin-bottom: 20px; border: 1px solid transparent; }
+        .navbar-fixed-bottom, .navbar-fixed-top { position: fixed; right: 0px; left: 0px; z-index: 1030; }
+        .navbar-fixed-top { top: 0px; border-width: 0px 0px 1px; }
+        .navbar-default { border-color: transparent; background-color: rgb(34, 34, 34); }
+        .container { padding-right: 15px; padding-left: 15px; margin-right: auto; margin-left: auto; }
+        .container-fluid > .navbar-collapse, .container-fluid > .navbar-header, .container > .navbar-collapse, .container > .navbar-header { margin-right: -15px; margin-left: -15px; }
+        button, input, optgroup, select, textarea { margin: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; color: inherit; }
+        button { overflow: visible; }
+        button, select { text-transform: none; }
+        button, html input[type="button"], input[type="reset"], input[type="submit"] { -webkit-appearance: button; cursor: pointer; }
+        button, input, select, textarea { font-family: inherit; font-size: inherit; line-height: inherit; }
+        .navbar-toggle { position: relative; float: right; padding: 9px 10px; margin-top: 8px; margin-right: 15px; margin-bottom: 8px; border: 1px solid transparent; border-radius: 4px; background-image: none; background-color: transparent; }
+        .navbar-default .navbar-toggle { border-color: rgb(254, 209, 54); background-color: rgb(254, 209, 54); }
+        .sr-only { position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px 0px 0px 0px); border: 0px; }
+        .navbar-toggle .icon-bar { display: block; width: 22px; height: 2px; border-radius: 1px; }
+        .navbar-default .navbar-toggle .icon-bar { background-color: rgb(255, 255, 255); }
+        .navbar-toggle .icon-bar + .icon-bar { margin-top: 4px; }
+        a { color: rgb(254, 209, 54); }
+        a, a:hover, a:focus, a:active, a.active { outline: 0px; }
+        .navbar-brand { float: left; height: 50px; padding: 15px; font-size: 18px; line-height: 20px; }
+        .navbar-default .navbar-brand { color: rgb(254, 209, 54); font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 400; letter-spacing: 1px; }
+        .collapse { display: none; }
+        .navbar-collapse { padding-right: 15px; padding-left: 15px; overflow-x: visible; border-top-width: 1px; border-top-style: solid; border-top-color: transparent; box-shadow: rgba(255, 255, 255, 0.0980392) 0px 1px 0px inset; }
+        .navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse { max-height: 340px; }
+        .navbar-default .navbar-collapse, .navbar-default .navbar-form { border-color: rgb(231, 231, 231); }
+        .navbar-default .navbar-collapse { border-color: rgba(255, 255, 255, 0.0196078); }
+        ol, ul { margin-top: 0px; margin-bottom: 10px; }
+        .nav { padding-left: 0px; margin-bottom: 0px; list-style: none; }
+        .navbar-nav { margin: 7.5px -15px; }
+        .hidden { display: none !important; }
+        .nav > li { position: relative; display: block; }
+        .nav > li > a { position: relative; display: block; padding: 7px; }
+        .navbar-nav > li > a { padding-top: 10px; padding-bottom: 10px; line-height: 20px; }
+        .navbar-default .navbar-nav > li > a { color: rgb(119, 119, 119); }
+        .navbar-default .nav li a { font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif; text-transform: uppercase; font-weight: 400; letter-spacing: 0px; color: rgb(255, 255, 255); font-size: 1.2em; }
+        .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover { color: rgb(85, 85, 85); background-color: rgb(231, 231, 231); }
+        .navbar-default .navbar-nav > .active > a { border-radius: 0px; color: rgb(255, 255, 255); background-color: rgb(254, 209, 54); }
+        header { text-align: center; color: rgb(255, 255, 255); background-image: url("../img/header-bg.jpg"); background-attachment: scroll; background-size: cover; background-position: 50% 50%; }
+        header .intro-text { padding-top: 100px; padding-bottom: 50px; }
+        header .intro-text .intro-lead-in { font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: italic; font-size: 22px; line-height: 22px; margin-bottom: 25px; }
+        header .intro-text .intro-heading { font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif; text-transform: uppercase; font-weight: 700; font-size: 50px; line-height: 50px; margin-bottom: 25px; }
+    </style>
+</head>
+
+<body id="page-top" class="index">
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-17125702-2', 'auto');
+  ga('send', 'pageview');
+
+</script>    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="https://www.realizeenglish.com/">神戸 三宮 英会話 リアライズ</a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden"><a href="#page-top"></a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#fees">料金</a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#teachers">英会話講師</a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/demolesson">無料体験レッスン</a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#starterslesson">スターターズレッスン</a></li>
+                    <li><a class="page-scroll" href="/reservation">ご予約</a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#contact">お問い合わせ</a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#access">アクセス</a></li>
+                    <li><a class="page-scroll" href="http://blog.realizeenglish.com" target="_blank" >ブログ</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-lead-in">神戸・三宮 英会話 リアライズ</div>
+                <div class="intro-heading">ジェイソン<br>Jason</div>
+            </div>
+        </div>
+    </header>
+
+    <section id="teacher">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <div class="team-member">
+                        <img src="https://www.realizeenglish.com/images/jason.jpg" class="img-responsive img-circle" alt="英会話講師 Jason">
+                    </div>
+                    <br><h3><span style="color: #1b9fe3;">
+                                        <span style="white-space:nowrap">神戸・三宮 英会話リアライズ</span> 
+                                        <span style="white-space:nowrap">―講師の学習スタイル―</span>
+                                    </span>
+　　　　　　　　　　</h3>
+                    <br><h4><span style="color: #1b9fe3;">ジェイソンの学習スタイル<br>Jason's Teaching Style</span></h4>
+                    <br><span style="white-space:nowrap">Hello! My name is Jason and I’m</span> 
+                                        <span style="white-space:nowrap">a native English speaker from New York.</span>
+                    <br>
+                    <br><span style="white-space:nowrap">As a language learner myself,</span> 
+                                        <span style="white-space:nowrap">I hope to bring my unique learning style</span> 
+                                        <span style="white-space:nowrap">to my students.</span> 
+                                        <span style="white-space:nowrap">I struggled to learn Japanese at first.</span> 
+                                        <span style="white-space:nowrap">I had a hard time retaining</span> 
+                                        <span style="white-space:nowrap">the information I studied</span> 
+                                        <span style="white-space:nowrap">from books and flash cards.</span>
+                    <br>
+                    <br><span style="white-space:nowrap">But, after studying brain plasticity</span> 
+                                        <span style="white-space:nowrap">and modern language learning research,</span> 
+                                        <span style="white-space:nowrap">I changed my study habits</span> 
+                                        <span style="white-space:nowrap">and I was finally able to absorb</span> 
+                                        <span style="white-space:nowrap">and retain Japanese for the first time!</span>
+                   <br>
+                   <br><span style="white-space:nowrap">Now I have a mastery of</span> 
+                                        <span style="white-space:nowrap">everyday Japanese conversation</span> 
+                                        <span style="white-space:nowrap">and I can help you get there</span> 
+                                        <span style="white-space:nowrap">with English very fast.</span>
+                    <br>
+                    <br><span style="white-space:nowrap">Although I still have a long way</span> 
+                                        <span style="white-space:nowrap">to go in my studies,</span> 
+                                        <span style="white-space:nowrap">I believe the techniques I use</span> 
+                                        <span style="white-space:nowrap">can be applied to English as well</span> 
+                                        <span style="white-space:nowrap">and help anyone improve their English.</span>
+                    <br>
+                    <br><span style="white-space:nowrap">I am a passionate believer in</span> 
+                                        <span style="white-space:nowrap">the absorption learning technique.</span> 
+                                        <span style="white-space:nowrap">In which, one has to simply absorb English</span> 
+                                        <span style="white-space:nowrap">through listening and then through</span> 
+                                        <span style="white-space:nowrap">spaced-repetition training every day.</span>
+                    <br>
+                    <br><span style="white-space:nowrap">Using this method,</span> 
+                                        <span style="white-space:nowrap">I was able to increase</span> 
+                                        <span style="white-space:nowrap">my Japanese skill dramatically.</span> 
+                                        <span style="white-space:nowrap">If your goal is English fluency,</span> 
+                                        <span style="white-space:nowrap">I can teach you the path</span> 
+                                        <span style="white-space:nowrap">to go from zero English</span> 
+                                        <span style="white-space:nowrap">to perfect native fluency.</span>
+                    <br>
+                    <br><span style="white-space:nowrap">Along the way,</span> 
+                                        <span style="white-space:nowrap">I can teach you about programming,</span> 
+                                        <span style="white-space:nowrap">new technologies,</span> 
+                                        <span style="white-space:nowrap">and American and New York life.</span> 
+                                        <span style="white-space:nowrap">If you’re ready to level up your English,</span> 
+                                        <span style="white-space:nowrap">let’s get started!</span>
+                    <br>
+                    <br>Jason
+                    <br>
+                    <br>
+
+                    <br><span style="white-space:nowrap">こんにちは！私の名前はJasonです。</span> 
+                                        <span style="white-space:nowrap">私はアメリカ出身のネイティブスピーカーです。</span>
+                    <br>
+                    <br><strong>和沙の翻訳待ち中</strong>
+<!--
+                    <br><span style="white-space:nowrap">私は以前旅行業界で働いていたので、</span> 
+                                        <span style="white-space:nowrap">様々な旅行のシチュエーションに慣れています。</span> 
+                                        <span style="white-space:nowrap">空港でのチェックイン、ホテルでのチェックイン、</span> 
+                                        <span style="white-space:nowrap">タクシーの手配、レストランでの注文、</span> 
+                                        <span style="white-space:nowrap">などなど、他にも旅行先で起こりそうな沢山の</span> 
+                                        <span style="white-space:nowrap">シチュエーションで練習することが出来ます。</span>
+                    <br>
+                    <br><strong>日常英会話</strong>
+                    <br><span style="white-space:nowrap">日常会話でのリスニングやスピーキングの</span> 
+                                        <span style="white-space:nowrap">スキルを高めたいなら、皆さんがネイティブの</span> 
+                                        <span style="white-space:nowrap">人と話さなければならない時に、自分の</span> 
+                                        <span style="white-space:nowrap">英会話スキルに自信を持てるようにお手伝いします。</span>
+                    <br>
+                    <br><strong>ドキュメント校正</strong>
+                    <br><span style="white-space:nowrap">もし英語のドキュメントや記事、</span> 
+                                        <span style="white-space:nowrap">小論文などの校正が必要ならば、</span> 
+                                        <span style="white-space:nowrap">スペル・文法・発音ミス等</span> 
+                                        <span style="white-space:nowrap">全てにおいて校正・訂正することが出来ます。</span> 
+                                        <span style="white-space:nowrap">その時は、何故それが間違いなのかをきちんと</span> 
+                                        <span style="white-space:nowrap">理解している事を確かめながら、</span> 
+                                        <span style="white-space:nowrap">皆さんと一緒に訂正していきます。</span> 
+                                        <span style="white-space:nowrap">私は必ず、自分の生徒さんがレッスン中に</span> 
+                                        <span style="white-space:nowrap">リラックス出来る様にレッスンを行います。</span> 
+                                        <span style="white-space:nowrap">そうする事で皆さんが自分の伝えたい事を十分に、</span> 
+                                        <span style="white-space:nowrap">遠慮する事なく伝える事が出来るからです。</span>
+                    <br>
+                    <br><span style="white-space:nowrap">私はレッスンの大部分を生徒さんが</span> 
+                                        <span style="white-space:nowrap">話す時間に使いたいと思っています。</span>
+                    <br><span style="white-space:nowrap">もし文法やスペル間違いなどがあれば訂正して、</span> 
+                                        <span style="white-space:nowrap">その間違いに関して生徒さんがきちんと理解出来ている</span> 
+                                        <span style="white-space:nowrap">事を確かめながらレッスンを進めます。</span>
+                    <br><span style="white-space:nowrap">英会話ハウスリアライズでお会いできる</span> 
+                                        <span style="white-space:nowrap">事を楽しみにしています！</span>
+                    <br>
+                    <br>ジェイソン
+-->
+                    <br>  
+                    <br>
+                    <br>
+                    <br>
+                    <br><h3><span style="color: #1b9fe3;">
+                                        <span style="white-space:nowrap">神戸・三宮 英会話リアライズ</span> 
+                                        <span style="white-space:nowrap">―講師のプロフィール―</span>
+                            </span></h3>
+                    <br><h4><span style="color: #1b9fe3;">Jason - ジェイソン
+                    <br>American ・ アメリカ人</span></h4>
+
+                    <br>Salutations!
+                    <br><span style="white-space:nowrap">I am Jason Cheladyn.</span> 
+                                        <span style="white-space:nowrap">I come from New York City,</span> 
+                                        <span style="white-space:nowrap">where I worked as a programmer</span> 
+                                        <span style="white-space:nowrap">for several startup companies. </span>
+                    <br>
+                    <br><span style="white-space:nowrap">I love modern science,</span> 
+                                        <span style="white-space:nowrap">programming, and Japanese culture.</span> 
+                                        <span style="white-space:nowrap">After working for many</span> 
+                                        <span style="white-space:nowrap">years in New York,</span> 
+                                        <span style="white-space:nowrap">I decided to come to Japan</span> 
+                                        <span style="white-space:nowrap">and learn about a completely new</span> 
+                                        <span style="white-space:nowrap">culture and way of thinking.</span> 
+                                        <span style="white-space:nowrap">In Japan I hope to someday start</span> 
+                                        <span style="white-space:nowrap">my own technology company!</span>
+                    <br>
+                    <br><span style="white-space:nowrap">I think New York is the best city</span> 
+                                        <span style="white-space:nowrap">in the United States</span> 
+                                        <span style="white-space:nowrap">and I would love to tell you</span> 
+                                        <span style="white-space:nowrap">all about the unique lifestyle</span> 
+                                        <span style="white-space:nowrap">that New Yorkers share.</span> 
+                                        <span style="white-space:nowrap">Ask me anytime!</span>
+                    <br>
+                    <br>Hope to see you soon!
+                    <br>
+                    <br>
+                    <br><strong>和沙の翻訳待ち中</strong>
+<!--
+                    <br><span style="white-space:nowrap">私はカナダで生まれ育ちました。</span> 
+                                        <span style="white-space:nowrap">日本に引っ越す前は33年間カナダに住んでいました。</span>
+                    <br><span style="white-space:nowrap">カナダに住んでいた時は、</span> 
+                                        <span style="white-space:nowrap">世界の色々な場所へ旅する機会があり、</span> 
+                                        <span style="white-space:nowrap">様々な文化を経験しました。</span>
+                    <br><span style="white-space:nowrap">現在は日本を楽しんでいます。</span> 
+                                        <span style="white-space:nowrap">日本の文化、食事、そして素晴らしい人々</span>
+                    <br>
+                    <br><span style="white-space:nowrap">私は自分が生まれ育ったカナダの</span> 
+                                        <span style="white-space:nowrap">文化を紹介するのが好きですし、</span> 
+                                        <span style="white-space:nowrap">逆に日本の文化ももっと学びたいです。</span>
+-->
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                </div>
+            </div>
+            <div class="container text-center">
+                <div class="intro-text">
+                    <a href="https://www.realizeenglish.com/#teachers" class="page-scroll btn btn-xl">戻る</a>
+                    <br><br>
+                    <a href="#page-top" class="page-scroll btn btn-xl">トップに戻る</a>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+       
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p class="large text-muted" style="color:#ff6600;"><strong><span style="white-space:nowrap">ご質問やお問い合わせはお気軽に</span> <span style="white-space:nowrap">神戸・三宮 英会話リアライズまで</span> <span style="white-space:nowrap">お問い合わせ下さい。</span>
+                    <br><br><span style="white-space:nowrap">神戸・三宮 英会話リアライズへのご連絡は</span> <span style="white-space:nowrap"> 『<a href="https://www.realizeenglish.com/#contact"> お問い合わせ </a>』　からご覧下さい。</span></strong></p>
+                </div>
+                <br><br><br><br><br><br>
+                <div class="col-md-4">
+                    <h4 class="text-muted" style="color: #ff6600;">営業時間</h4>
+                    <p class="text-muted" style="color: #ff6600;">月曜日 14:00 - 22:00
+                    <br>水・木・金曜日 12:00 - 22:00
+                    <br>土曜日 10:00 - 22:00
+                    <br>日曜日 10:00 - 19:00</p>
+                </div>
+                <div class="col-md-4">
+                    <h4 class="text-muted" style="color: #ff6600;">Eメール</h4>
+                    <p class="text-muted" style="color: #ff6600;">realizenglish@gmail.com
+                    <br>contact@realizeenglish.com</p>
+                </div>
+                <div class="col-md-4">
+                    <h4 class="text-muted" style="color: #ff6600;">電話番号</h4>
+                    <p class="text-muted" style="color: #ff6600;">078-200-5920
+                    <br>※少人数のためお電話は大変繋がりにくいです。<br><a href="https://www.realizeenglish.com/#contact">コンタクトフォーム</a>をご利用下さい。
+                    <br>※当日の予約状況により<br>営業時間が変更します。</p>
+                </div>
+                <br>
+            </div>
+        </div>
+    </section>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/agency.css" rel="stylesheet">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/agency.js"></script>
+</body>
+</html>

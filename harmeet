@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="ja_JP">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="ALL">
+    <meta name="keywords" content="英会話　神戸, 英会話　三宮, 　英会話　マンツーマン, 英会話ハウス　リアライズ, Harmeet">
+    <meta name="description" content="神戸市三宮駅近くの英会話ハウス。入会金、テキスト料０円！マンツーマンレッスンが安い！講師は大手英会話スクールで経験を積んだネイティブスピーカーですので、レッスン品質に自信があります！ネイティブ講師があなたにピッタリのレッスンをカスタマイズし、あなたの英語学習を徹底サポートします。Harmeetの学習スタイル">
+    <meta name="author" content="英会話 リアライズ">
+    <meta name="title" content="Harmeet　| 英会話　神戸　三宮　3500円マンツーマン  | 英会話 リアライズ">
+    <title>Harmeet　| 英会話　神戸　三宮　3500円マンツーマン  | 英会話 リアライズ</title>
+
+    
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link href="https://www.realizeenglish.com/templates/cah_ndeso/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link href="https://plus.google.com/113226908607732007798" rel="publisher">
+    <meta property="og:title" content="英会話リアライズ">
+    <meta property="og:type" content="school">
+    <meta property="og:url" content="https://www.realizeenglish.com/">
+    <meta property="og:image" content="https://www.realizeenglish.com/images/Realize.jpg">
+    <meta property="og:site_name" content="神戸　三宮　マンツーマン　英会話　リアライズ">
+    <meta property="fb:admins" content="542465876">
+    
+    <style>
+        * { box-sizing: border-box; }
+        html { font-size: 10px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+        body { overflow-x: hidden; font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+        article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; }
+        .navbar { position: relative; min-height: 50px; margin-bottom: 20px; border: 1px solid transparent; }
+        .navbar-fixed-bottom, .navbar-fixed-top { position: fixed; right: 0px; left: 0px; z-index: 1030; }
+        .navbar-fixed-top { top: 0px; border-width: 0px 0px 1px; }
+        .navbar-default { border-color: transparent; background-color: rgb(34, 34, 34); }
+        .container { padding-right: 15px; padding-left: 15px; margin-right: auto; margin-left: auto; }
+        .container-fluid > .navbar-collapse, .container-fluid > .navbar-header, .container > .navbar-collapse, .container > .navbar-header { margin-right: -15px; margin-left: -15px; }
+        button, input, optgroup, select, textarea { margin: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; color: inherit; }
+        button { overflow: visible; }
+        button, select { text-transform: none; }
+        button, html input[type="button"], input[type="reset"], input[type="submit"] { -webkit-appearance: button; cursor: pointer; }
+        button, input, select, textarea { font-family: inherit; font-size: inherit; line-height: inherit; }
+        .navbar-toggle { position: relative; float: right; padding: 9px 10px; margin-top: 8px; margin-right: 15px; margin-bottom: 8px; border: 1px solid transparent; border-radius: 4px; background-image: none; background-color: transparent; }
+        .navbar-default .navbar-toggle { border-color: rgb(254, 209, 54); background-color: rgb(254, 209, 54); }
+        .sr-only { position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px 0px 0px 0px); border: 0px; }
+        .navbar-toggle .icon-bar { display: block; width: 22px; height: 2px; border-radius: 1px; }
+        .navbar-default .navbar-toggle .icon-bar { background-color: rgb(255, 255, 255); }
+        .navbar-toggle .icon-bar + .icon-bar { margin-top: 4px; }
+        a { color: rgb(254, 209, 54); }
+        a, a:hover, a:focus, a:active, a.active { outline: 0px; }
+        .navbar-brand { float: left; height: 50px; padding: 15px; font-size: 18px; line-height: 20px; }
+        .navbar-default .navbar-brand { color: rgb(254, 209, 54); font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 400; letter-spacing: 1px; }
+        .collapse { display: none; }
+        .navbar-collapse { padding-right: 15px; padding-left: 15px; overflow-x: visible; border-top-width: 1px; border-top-style: solid; border-top-color: transparent; box-shadow: rgba(255, 255, 255, 0.0980392) 0px 1px 0px inset; }
+        .navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse { max-height: 340px; }
+        .navbar-default .navbar-collapse, .navbar-default .navbar-form { border-color: rgb(231, 231, 231); }
+        .navbar-default .navbar-collapse { border-color: rgba(255, 255, 255, 0.0196078); }
+        ol, ul { margin-top: 0px; margin-bottom: 10px; }
+        .nav { padding-left: 0px; margin-bottom: 0px; list-style: none; }
+        .navbar-nav { margin: 7.5px -15px; }
+        .hidden { display: none !important; }
+        .nav > li { position: relative; display: block; }
+        .nav > li > a { position: relative; display: block; padding: 7px; }
+        .navbar-nav > li > a { padding-top: 10px; padding-bottom: 10px; line-height: 20px; }
+        .navbar-default .navbar-nav > li > a { color: rgb(119, 119, 119); }
+        .navbar-default .nav li a { font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif; text-transform: uppercase; font-weight: 400; letter-spacing: 0px; color: rgb(255, 255, 255); font-size: 1.2em; }
+        .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover { color: rgb(85, 85, 85); background-color: rgb(231, 231, 231); }
+        .navbar-default .navbar-nav > .active > a { border-radius: 0px; color: rgb(255, 255, 255); background-color: rgb(254, 209, 54); }
+        header { text-align: center; color: rgb(255, 255, 255); background-image: url("../img/header-bg.jpg"); background-attachment: scroll; background-size: cover; background-position: 50% 50%; }
+        header .intro-text { padding-top: 100px; padding-bottom: 50px; }
+        header .intro-text .intro-lead-in { font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: italic; font-size: 22px; line-height: 22px; margin-bottom: 25px; }
+        header .intro-text .intro-heading { font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif; text-transform: uppercase; font-weight: 700; font-size: 50px; line-height: 50px; margin-bottom: 25px; }
+    </style>
+</head>
+
+<body id="page-top" class="index">
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-17125702-2', 'auto');
+  ga('send', 'pageview');
+
+</script>    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="https://www.realizeenglish.com/">神戸 三宮 英会話 リアライズ</a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden"><a href="#page-top"></a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#fees">料金</a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#teachers">英会話講師</a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/demolesson">無料体験レッスン</a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#starterslesson">スターターズレッスン</a></li>
+                    <li><a class="page-scroll" href="/reservation">ご予約</a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#contact">お問い合わせ</a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#access">アクセス</a></li>
+                    <li><a class="page-scroll" href="http://blog.realizeenglish.com" target="_blank" >ブログ</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-lead-in">神戸・三宮 英会話 リアライズ</div>
+                <div class="intro-heading">ハーミット<br>Harmeet</div>
+            </div>
+        </div>
+    </header>
+
+    <section id="teacher">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <div class="team-member">
+                        <img src="img/team/harmeetprofile.jpg" class="img-responsive img-circle" alt="英会話講師 Harmeet">
+                    </div>
+                    <br><h3><span style="color: #1b9fe3;"><span style="white-space:nowrap">神戸・三宮 英会話リアライズ</span> 
+                                        <span style="white-space:nowrap">―講師の学習スタイル―</span></span></h3>
+                    <br><h4><span style="color: #1b9fe3;">ハーミットの学習スタイル<br>Harmeet's Teaching Style</span></h4>
+
+                    <br><span style="white-space:nowrap">Hello and nice to meet you!</span> 
+                                        <span style="white-space:nowrap">My name is Harmeet.</span>
+                    <br>
+
+                    <br><span style="white-space:nowrap">I'm studying in Kobe and working</span> 
+                                        <span style="white-space:nowrap">part time as an English teacher at Realize.</span> 
+                    <br>
+                    <br><span style="white-space:nowrap">I studied law and politics at university</span> 
+                                        <span style="white-space:nowrap">so I really enjoy discussing matters</span> 
+                                        <span style="white-space:nowrap">which relate to the social sciences.</span> 
+                                        <span style="white-space:nowrap">I especially enjoy talking</span> 
+                                        <span style="white-space:nowrap">about current events</span> 
+                                        <span style="white-space:nowrap">and listening to new viewpoints about</span> 
+                                        <span style="white-space:nowrap">what's going on in this crazy world.</span> 
+                    <br>
+                    <br><span style="white-space:nowrap">I love to travel!</span> 
+                                        <span style="white-space:nowrap">I've been to a total of five countries.</span> 
+                                        <span style="white-space:nowrap">Tell me about the counties</span> 
+                                        <span style="white-space:nowrap">you have been to!</span>
+                    <br>
+                    <br><span style="white-space:nowrap">When I have time</span> 
+                                        <span style="white-space:nowrap">I also like to read and write.</span> 
+                                        <span style="white-space:nowrap">I'm working on a short novel</span> 
+                                        <span style="white-space:nowrap">that takes place in a fantasy world</span> 
+                                        <span style="white-space:nowrap">full of wizards, warriors, and monsters.</span> 
+                    <br>
+                    <br><span style="white-space:nowrap">Let's learn English together!</span> 
+                    <br>
+                    <br>Harmeet
+                    <br>
+                    <br><span style="white-space:nowrap">始めまして、こんにちは！</span> 
+                                        <span style="white-space:nowrap">私の名前はHarmeetです。</span> 
+                    <br>
+                    <br><span style="white-space:nowrap">私は神戸で（日本語を）勉強していて、</span> 
+                                        <span style="white-space:nowrap">英会話リアライズでパートタイム</span> 
+                                        <span style="white-space:nowrap">講師として働いています。</span> 
+                    <br>
+                    <br><span style="white-space:nowrap">私は政治と法律を大学で勉強したので、</span> 
+                                        <span style="white-space:nowrap">社会科学について討論するのが好きです。</span> 
+                                        <span style="white-space:nowrap">特に今起こっている</span> 
+                                        <span style="white-space:nowrap">時事問題についての話が好きで、</span> 
+                                        <span style="white-space:nowrap">この目まぐるしい世界で起こっている</span> 
+                                        <span style="white-space:nowrap">出来事について、</span> 
+                                        <span style="white-space:nowrap">新しい視点での意見を聞くことが好きです。</span> 
+                    <br>
+                    <br><span style="white-space:nowrap">私は旅行も大好きです！</span> 
+                                        <span style="white-space:nowrap">全部で5ヵ国に行ったことがあります。</span> 
+                                        <span style="white-space:nowrap">皆さんが行ったことのある</span> 
+                                        <span style="white-space:nowrap">国について聞かせてください！</span> 
+                    <br>
+                    <br><span style="white-space:nowrap">時間がある時は本を読んだり書いたりします。</span> 
+                                        <span style="white-space:nowrap">今、魔法使いや戦士、</span> 
+                                        <span style="white-space:nowrap">モンスターが沢山出てくる</span> 
+                                        <span style="white-space:nowrap">ファンタジー小説を書いている所です。</span> 
+                    <br>
+                    <br><span style="white-space:nowrap">一緒に英語を学びましょう！</span> 
+                    <br>
+                    <br>ハーミット
+                    <br>
+                    <br>
+                    <br>
+                    <br><h3><span style="color: #1b9fe3;"><span style="white-space:nowrap">神戸・三宮 英会話リアライズ</span> 
+                                        <span style="white-space:nowrap">―講師のプロフィール―</span></span></h3>
+                    <br>
+                    <h4>Keeping a relaxed environment!</h4>
+                    <span style="white-space:nowrap">I strongly believe that comfort</span> 
+                                        <span style="white-space:nowrap">plays an essential role</span> 
+                                        <span style="white-space:nowrap">in the learning process.</span> 
+                                        <span style="white-space:nowrap">Because of this</span> 
+                                        <span style="white-space:nowrap">I have adopted a very friendly</span> 
+                                        <span style="white-space:nowrap">teaching style so that my students feel</span> 
+                                        <span style="white-space:nowrap">relaxed throughout the lesson.</span> 
+                                        <span style="white-space:nowrap">Let’s laugh and learn English together!</span> 
+                    <br>
+                    <br>
+                    <h4>Asking lots of questions!</h4>
+                    <span style="white-space:nowrap">I’m a pretty curious guy.</span> 
+                                        <span style="white-space:nowrap">I’m fascinated by things that would</span> 
+                                        <span style="white-space:nowrap">bore the average individual,</span> 
+                                        <span style="white-space:nowrap">and I have incorporated this curiosity</span> 
+                                        <span style="white-space:nowrap">into my teaching style.</span> 
+                                        <span style="white-space:nowrap">I will ask you a lot of questions to try</span> 
+                                        <span style="white-space:nowrap">and get you to speak as much as possible.</span> 
+                    <br>
+                    <br><span style="white-space:nowrap">The more you speak the more you learn,</span> 
+                                        <span style="white-space:nowrap">so tell me as much as you can</span> 
+                                        <span style="white-space:nowrap">about your latest trip abroad,</span> 
+                                        <span style="white-space:nowrap">your hobbies or why Ichiro Suzuki</span> 
+                                        <span style="white-space:nowrap">is your favorite baseball player.</span> 
+                    <br>
+                    <br>
+                    <h4>Helping you achieve your career goals!</h4>
+                    <span style="white-space:nowrap">I like having fun,</span> 
+                                        <span style="white-space:nowrap">but I am also very career oriented.</span> 
+                                        <span style="white-space:nowrap">I understand that in the</span> 
+                                        <span style="white-space:nowrap">modern global economy</span> 
+                                        <span style="white-space:nowrap">English is considered a must</span> 
+                                        <span style="white-space:nowrap">if you want to get ahead.</span> 
+                                        <span style="white-space:nowrap">I’ve worked in various international</span> 
+                                        <span style="white-space:nowrap">office environments where</span> 
+                                        <span style="white-space:nowrap">I have communicated</span> 
+                                        <span style="white-space:nowrap">with ESL speakers from Japan</span> 
+                                        <span style="white-space:nowrap">and other Asian countries.</span> 
+                    <br>
+                    <br><span style="white-space:nowrap">So I have special insight as to the common</span> 
+                                        <span style="white-space:nowrap">pitfalls that bewilder most Non-native</span> 
+                                        <span style="white-space:nowrap">English speakers in an office environment.</span> 
+                                        <span style="white-space:nowrap">I can also help you by reviewing documents,</span> 
+                                        <span style="white-space:nowrap">emails, presentations, and/or helping you</span>
+                                        <span style="white-space:nowrap">prepare for seminars or presentations.</span> 
+                    <br>
+                    <br>
+                    <h4>Travel!</h4>
+                    <span style="white-space:nowrap">I love to travel.</span> 
+                                        <span style="white-space:nowrap">I’m a unique global citizen</span> 
+                                        <span style="white-space:nowrap">and have the pleasure of being</span> 
+                                        <span style="white-space:nowrap">part of various different cultures.</span> 
+                    <br>
+                    <br><span style="white-space:nowrap">I can help you practice the English</span> 
+                                        <span style="white-space:nowrap">you will need for your next Business trip</span> 
+                                        <span style="white-space:nowrap">to New York, or</span> 
+                                        <span style="white-space:nowrap">your next vacation to Bali.</span> 
+                                        <span style="white-space:nowrap">Remember to send me a postcard!</span>
+                    <br>
+                    <br><span style="white-space:nowrap">Also, I’m also pretty good at Japanese.</span> 
+                                        <span style="white-space:nowrap">So feel free to ask the occasional question</span> 
+                                        <span style="white-space:nowrap">in 日本語 if you get stuck.</span>
+                    <br>
+                    <br>
+                    <h4>リラックスできる環境を作る！</h4>
+                    <span style="white-space:nowrap">何かを学ぶ時には、</span> 
+                                        <span style="white-space:nowrap">生徒が快適な状態である</span> 
+                                        <span style="white-space:nowrap">事が不可欠だと私は強く考えています。</span> 
+                                        <span style="white-space:nowrap">ですので、</span> 
+                                        <span style="white-space:nowrap">生徒さんがレッスン</span> 
+                                        <span style="white-space:nowrap">中リラックスして話せるように、</span> 
+                                        <span style="white-space:nowrap">とってもフレンドリーに英語を教えます。</span> 
+                                        <span style="white-space:nowrap">一緒に沢山笑いながら英語を学びましょう！</span> 
+                    <br>
+                    <br>
+                    <h4>沢山質問します！</h4>
+                    <span style="white-space:nowrap">私はとっても好奇心の強い性格です。</span> 
+                                        <span style="white-space:nowrap">多くの人が退屈に感じる話題でも、</span> 
+                                        <span style="white-space:nowrap">興味があったりします。</span> 
+                                        <span style="white-space:nowrap">そして、</span> 
+                                        <span style="white-space:nowrap">私はその自分の性格を</span> 
+                                        <span style="white-space:nowrap">上手く授業に利用します。</span> 
+                                        <span style="white-space:nowrap">生徒の皆さんが出来るだけ沢山話を</span> 
+                                        <span style="white-space:nowrap">出来るように、</span> 
+                                        <span style="white-space:nowrap">私からは沢山質問をします。</span> 
+                                        <span style="white-space:nowrap">話せば話すほど上達します。</span> 
+                                        <span style="white-space:nowrap">ですから、</span> 
+                                        <span style="white-space:nowrap">出来るだけ沢山の事を私に話して</span> 
+                                        <span style="white-space:nowrap">聞かせてください。</span> 
+                                        <span style="white-space:nowrap">前に行った海外旅行の話、趣味の話、</span> 
+                                        <span style="white-space:nowrap">何故イチローがあなたのお気に</span> 
+                                        <span style="white-space:nowrap">入り選手なのかなどなど！</span> 
+                    <br>
+                    <br>
+                    <h4>キャリアの目標達成への手助け！</h4>
+                    <span style="white-space:nowrap">私は楽しいレッスンも好きですが、</span> 
+                                        <span style="white-space:nowrap">キャリアに関しても重視しています。</span> 
+                                        <span style="white-space:nowrap">現代のグローバル経済の</span> 
+                                        <span style="white-space:nowrap">ビジネスで成功するには、</span> 
+                                        <span style="white-space:nowrap">英語は必要不可欠なものと見なされています。</span> 
+                                        <span style="white-space:nowrap">私はこれまで様々なインターナショナルな</span> 
+                                        <span style="white-space:nowrap">職場で働いたことがあり、</span> 
+                                        <span style="white-space:nowrap">そこでは日本を含めアジアの英語を</span> 
+                                        <span style="white-space:nowrap">第2言語として話す人たちと</span> 
+                                        <span style="white-space:nowrap">コミュニケーションを取ってきました。</span> 
+                    <br>
+                    <br><span style="white-space:nowrap">ですので、</span> 
+                                        <span style="white-space:nowrap">ビジネスシチュエーションでノンネイティブが</span> 
+                                        <span style="white-space:nowrap">混乱しがちな英語の落とし穴を見抜く洞察力が</span> 
+                                        <span style="white-space:nowrap">身についています。また、資料やメール、</span> 
+                                        <span style="white-space:nowrap">パワーポイント等の添削や、セミナー、</span>
+                                        <span style="white-space:nowrap">プレゼンの練習でもお手伝いが出来ます。</span> 
+                    <br>
+                    <br>
+                    <h4>旅行！</h4>
+                    <span style="white-space:nowrap">私は旅行が大好きです。</span> 
+                                        <span style="white-space:nowrap">私自身、</span> 
+                                        <span style="white-space:nowrap">珍しいグローバル市民であり</span> 
+                                        <span style="white-space:nowrap">（日本で生まれ育ち、</span> 
+                                        <span style="white-space:nowrap">小中高は日本の</span> 
+                                        <span style="white-space:nowrap">インターナショナルスクール、</span> 
+                                        <span style="white-space:nowrap">大学は4年間イギリスの</span> 
+                                        <span style="white-space:nowrap">学校へ行っていました。)</span> 
+                                        <span style="white-space:nowrap">自分自身が様々な</span> 
+                                        <span style="white-space:nowrap">違った文化の一員である</span> 
+                                        <span style="white-space:nowrap">事を大変幸運に思っています。</span> 
+                    <br>
+                    <br><span style="white-space:nowrap">次のNYへの出張でも、</span> 
+                                        <span style="white-space:nowrap">バリへのバケーションでも、</span> 
+                                        <span style="white-space:nowrap">あなたが必要な英語を習得する</span> 
+                                        <span style="white-space:nowrap">お手伝いが出来ます。</span> 
+                                        <span style="white-space:nowrap">旅先ではポストカードを忘れずに送ってね！</span> 
+                    <br>
+                    <br><span style="white-space:nowrap">さらに、私は日本語がとても得意です。</span> 
+                                        <span style="white-space:nowrap">もしどうしても困った時は、</span> 
+                                        <span style="white-space:nowrap">遠慮なく日本語で質問してください。</span>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                        <img src="img/team/harmeet.jpg" class="img-responsive img-circle" alt="英会話講師 Harmeet">
+                    <br>
+                    <br>
+                </div>
+            </div>
+            <div class="container text-center">
+                <div class="intro-text">
+                    <a href="https://www.realizeenglish.com/#teachers" class="page-scroll btn btn-xl">戻る</a><br><br>
+                    <a href="#page-top" class="page-scroll btn btn-xl">トップに戻る</a>
+                </div>
+            </div>
+        </div>
+    </section>
+       
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p class="large text-muted" style="color:#ff6600;"><strong><span style="white-space:nowrap">ご質問やお問い合わせはお気軽に</span> <span style="white-space:nowrap">神戸・三宮 英会話リアライズまで</span> <span style="white-space:nowrap">お問い合わせ下さい。</span>
+                    <br><br><span style="white-space:nowrap">神戸・三宮 英会話リアライズへのご連絡は</span> <span style="white-space:nowrap"> 『<a href="https://www.realizeenglish.com/#contact"> お問い合わせ </a>』　からご覧下さい。</span></strong></p>
+                </div>
+                <br><br><br><br><br><br>
+                <div class="col-md-4">
+                    <h4 class="text-muted" style="color: #ff6600;">営業時間</h4>
+                    <p class="text-muted" style="color: #ff6600;">月曜日 14:00 - 22:00
+                    <br>水・木・金曜日 12:00 - 22:00
+                    <br>土曜日 10:00 - 22:00
+                    <br>日曜日 10:00 - 19:00</p>
+                </div>
+                <div class="col-md-4">
+                    <h4 class="text-muted" style="color: #ff6600;">Eメール</h4>
+                    <p class="text-muted" style="color: #ff6600;">realizenglish@gmail.com
+                    <br>contact@realizeenglish.com</p>
+                </div>
+                <div class="col-md-4">
+                    <h4 class="text-muted" style="color: #ff6600;">電話番号</h4>
+                    <p class="text-muted" style="color: #ff6600;">078-200-5920
+                    <br>※少人数のためお電話は大変繋がりにくいです。<br><a href="https://www.realizeenglish.com/#contact">コンタクトフォーム</a>をご利用下さい。
+                    <br>※当日の予約状況により<br>営業時間が変更します。</p>
+                </div>
+                <br>
+            </div>
+        </div>
+    </section>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/agency.css" rel="stylesheet">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/agency.js"></script>
+</body>
+</html>

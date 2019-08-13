@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="ja_JP">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="ALL">
+    <meta name="keywords" content="英会話　神戸, 英会話　三宮, 英会話　マンツーマン, 無料お試しレッスン">
+    <meta name="description" content="神戸市三宮駅近くの英会話ハウスです。入会金・テキスト料金０円！マンツーマンレッスンが安い！講師は大手英会話スクールで経験を積んだネイティブスピーカーがあなたにピッタリのレッスンをカスタマイズし、あなたの英語学習を徹底サポートします。まずは無料お試しレッスンでリアライズクオリティを実感して下さい">
+    <meta name="author" content="英会話 リアライズ">
+    <meta name="title" content="無料お試しレッスン　| 英会話　神戸　三宮　3500円マンツーマン | 英会話 リアライズ">
+    <title>無料お試しレッスン　| 英会話　神戸　三宮　3500円マンツーマン | 英会話 リアライズ</title>
+
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link href="https://www.realizeenglish.com/templates/cah_ndeso/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link href="https://plus.google.com/113226908607732007798" rel="publisher">
+    <meta property="og:title" content="英会話リアライズ">
+    <meta property="og:type" content="school">
+    <meta property="og:url" content="https://www.realizeenglish.com/">
+    <meta property="og:image" content="https://www.realizeenglish.com/images/Realize.jpg">
+    <meta property="og:site_name" content="神戸　三宮　マンツーマン　英会話　リアライズ">
+    <meta property="fb:admins" content="542465876">
+    
+    <style>
+        * { box-sizing: border-box; }
+        html { font-size: 10px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+        body { overflow-x: hidden; font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+        article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; }
+        .navbar { position: relative; min-height: 50px; margin-bottom: 20px; border: 1px solid transparent; }
+        .navbar-fixed-bottom, .navbar-fixed-top { position: fixed; right: 0px; left: 0px; z-index: 1030; }
+        .navbar-fixed-top { top: 0px; border-width: 0px 0px 1px; }
+        .navbar-default { border-color: transparent; background-color: rgb(34, 34, 34); }
+        .container { padding-right: 15px; padding-left: 15px; margin-right: auto; margin-left: auto; }
+        .container-fluid > .navbar-collapse, .container-fluid > .navbar-header, .container > .navbar-collapse, .container > .navbar-header { margin-right: -15px; margin-left: -15px; }
+        button, input, optgroup, select, textarea { margin: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; color: inherit; }
+        button { overflow: visible; }
+        button, select { text-transform: none; }
+        button, html input[type="button"], input[type="reset"], input[type="submit"] { -webkit-appearance: button; cursor: pointer; }
+        button, input, select, textarea { font-family: inherit; font-size: inherit; line-height: inherit; }
+        .navbar-toggle { position: relative; float: right; padding: 9px 10px; margin-top: 8px; margin-right: 15px; margin-bottom: 8px; border: 1px solid transparent; border-radius: 4px; background-image: none; background-color: transparent; }
+        .navbar-default .navbar-toggle { border-color: rgb(254, 209, 54); background-color: rgb(254, 209, 54); }
+        .sr-only { position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px 0px 0px 0px); border: 0px; }
+        .navbar-toggle .icon-bar { display: block; width: 22px; height: 2px; border-radius: 1px; }
+        .navbar-default .navbar-toggle .icon-bar { background-color: rgb(255, 255, 255); }
+        .navbar-toggle .icon-bar + .icon-bar { margin-top: 4px; }
+        a { color: rgb(254, 209, 54); }
+        a, a:hover, a:focus, a:active, a.active { outline: 0px; }
+        .navbar-brand { float: left; height: 50px; padding: 15px; font-size: 18px; line-height: 20px; }
+        .navbar-default .navbar-brand { color: rgb(254, 209, 54); font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 400; letter-spacing: 1px; }
+        .collapse { display: none; }
+        .navbar-collapse { padding-right: 15px; padding-left: 15px; overflow-x: visible; border-top-width: 1px; border-top-style: solid; border-top-color: transparent; box-shadow: rgba(255, 255, 255, 0.0980392) 0px 1px 0px inset; }
+        .navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse { max-height: 340px; }
+        .navbar-default .navbar-collapse, .navbar-default .navbar-form { border-color: rgb(231, 231, 231); }
+        .navbar-default .navbar-collapse { border-color: rgba(255, 255, 255, 0.0196078); }
+        ol, ul { margin-top: 0px; margin-bottom: 10px; }
+        .nav { padding-left: 0px; margin-bottom: 0px; list-style: none; }
+        .navbar-nav { margin: 7.5px -15px; }
+        .hidden { display: none !important; }
+        .nav > li { position: relative; display: block; }
+        .nav > li > a { position: relative; display: block; padding: 7px; }
+        .navbar-nav > li > a { padding-top: 10px; padding-bottom: 10px; line-height: 20px; }
+        .navbar-default .navbar-nav > li > a { color: rgb(119, 119, 119); }
+        .navbar-default .nav li a { font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif; text-transform: uppercase; font-weight: 400; letter-spacing: 0px; color: rgb(255, 255, 255); font-size: 1.2em; }
+        .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover { color: rgb(85, 85, 85); background-color: rgb(231, 231, 231); }
+        .navbar-default .navbar-nav > .active > a { border-radius: 0px; color: rgb(255, 255, 255); background-color: rgb(254, 209, 54); }
+        header { text-align: center; color: rgb(255, 255, 255); background-image: url("../img/header-bg.jpg"); background-attachment: scroll; background-size: cover; background-position: 50% 50%; }
+        header .intro-text { padding-top: 100px; padding-bottom: 50px; }
+        header .intro-text .intro-lead-in { font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: italic; font-size: 22px; line-height: 22px; margin-bottom: 25px; }
+        header .intro-text .intro-heading { font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif; text-transform: uppercase; font-weight: 700; font-size: 50px; line-height: 50px; margin-bottom: 25px; }
+    </style>
+</head>
+
+<body id="page-top" class="index">
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-17125702-2', 'auto');
+  ga('send', 'pageview');
+
+</script>    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="https://www.realizeenglish.com/">神戸 三宮 英会話 リアライズ</a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden"><a href="#page-top"></a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#fees">料金</a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#teachers">英会話講師</a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#starterslesson">スターターズレッスン</a></li>
+                    <li><a class="page-scroll" href="/reservation">ご予約</a></li>
+                    <li><a class="page-scroll" href="https://www.realizeenglish.com/#access">アクセス</a></li>
+                    <li><a class="page-scroll" href="#contact">お問い合わせ</a></li>
+                    <li><a class="page-scroll" href="http://blog.realizeenglish.com" target="_blank" >ブログ</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-lead-in">神戸・三宮 英会話 リアライズ</div>
+                <div class="intro-heading">無料体験<br>レッスン</div>   
+            </div>
+        </div>
+    </header>
+
+    <section id="fulldemo">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <br><h4><span style="color: #3366ff;">【無料体験レッスン】</span></h4>
+                    <div class="col-sm-8 text-left">
+                        <br><span style="white-space:nowrap">無料お試しレッスンはどなたでも</span> <span style="white-space:nowrap">１度体験していただけます。</span>
+                        <br><br><span style="white-space:nowrap">神戸・三宮 英会話リアライズの</span> <span style="white-space:nowrap">講師と直接会ってみて、</span>
+                        <br><br><span style="white-space:nowrap">本当に自分と肌が合うかどうか</span> <span style="white-space:nowrap">確かめる素晴らしい機会です。</span>
+                        <br><br><span style="white-space:nowrap">レッスンはお互いの自己紹介から始まります。</span> <span style="white-space:nowrap">自己紹介が終わったら、ネイティブ講師と一緒に</span>
+                        <br><span style="white-space:nowrap">あなたにピッタリのレッスンプランを立てましょう。</span>
+                        <br>
+                        <br><span style="white-space:nowrap">神戸・三宮 英会話リアライズには</span> <span style="white-space:nowrap">たくさんのレッスンスタイルがあります。</span>
+                        <br><br><span style="white-space:nowrap">スピーキング・リスニング・</span> <span style="white-space:nowrap">ライティング・リーディング、</span>
+                        <span style="white-space:nowrap">どのスキルに重点を置くかも自由です。</span>
+                        <br><br><span style="white-space:nowrap">時間をかけて、あらゆる選択肢の中から</span> <span style="white-space:nowrap">ピッタリのレッスンプランを一緒に考えましょう！</span>
+                        <br>
+                        <br><span style="white-space:nowrap">神戸・三宮 英会話ハウスリアライズの</span> <span style="white-space:nowrap">無料体験レッスンのご予約は、お電話、Eメール、</span>
+                        <br>コンタクトフォームでお受けしております。
+                        <br><br><span style="white-space:nowrap"><a href="#contact">お問い合わせ</a>をクリックし、</span> <span style="white-space:nowrap">神戸・三宮 英会話リアライズのコンタクト情報を</span>
+                        <br>ご覧下さい。スタッフ一同、楽しみにお待ちしております！
+                        <br><br>
+                        <br><span style="color: #3366ff;">★英会話ハウスリアライズからのお願い★</span>
+                        <br><span style="white-space:nowrap">レッスンの空き状況により、教室を空けている</span> <span style="white-space:nowrap">場合がありますので、教室をご訪問頂く際は</span> <span style="white-space:nowrap">必ずご予約をお取とり頂いてからお越しください。</span>
+                        <br>
+                        <br>
+                    </div>  
+                    <div class="col-sm-4 text-left">
+                        <br><img alt="フラワーロード　神戸　三宮　マンツーマン　英会話　リアライズ" class="img-responsive" src="https://www.realizeenglish.com/images/stories/invite/invite-small.jpg" >
+                        <p style="text-align: center;"><span style="color: #00ccff;">大きな地図を見るには、<br>こちらの地図をクリックして下さい</span></p>
+                        <br><br>
+                        <br><br>
+                        <br><br>
+                        <br><img alt="フラワーロード　神戸　三宮　マンツーマン　英会話　リアライズ" class="img-responsive" src="https://www.realizeenglish.com/images/stories/freeDrink/Free-Drinks.jpg" >
+                    </div>
+                    <div style="clear: both;"></div>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                </div>
+            </div>
+            <div class="container text-center">
+                <div class="intro-text">
+                    <a href="https://www.realizeenglish.com/#contact" class="page-scroll btn btn-xl">戻る</a>
+                    <br><br>
+                    <a href="#page-top" class="page-scroll btn btn-xl">トップに戻る</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h3 class="section-heading">コンタクトフォーム</h3>
+                    <h2 class="section-heading">無料体験レッスン</h2>
+                    <h3 class="large text-muted"><p class="text-muted" style="color: #ff6600;"><span style="white-space:nowrap">・体験レッスンをご希望の方は</span> <span style="white-space:nowrap">【体験レッスン申し込み】と記入してください。</span>
+                    <h3 class="large text-muted"><p class="text-muted" style="color: #ff6600;"><span style="white-space:nowrap">・また、体験レッスンご希望のお日時を</span> <span style="white-space:nowrap">第3希望まで お知らせください。</span>
+                    <br><br><span style="white-space:nowrap">・3営業日以内に返信が来ない場合は、</span> <span style="white-space:nowrap">お手数ですがお電話かメールにて</span> <span style="white-space:nowrap">ご連絡下さい。</span>
+                    <br><br><span style="white-space:nowrap">(メールにお電話番号をご記入頂けますと、</span> <span style="white-space:nowrap">返信できない際はおかけ直し致します。)</span>
+                    <br><br><span style="white-space:nowrap">・自動確認メールが文字化けする場合が</span> <span style="white-space:nowrap">ありますが問題ありません。</span> <span style="white-space:nowrap">返信をお待ち下さい。</span><br><br></p></h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <form name="sentMessage" id="contactForm" novalidate>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="氏名 *" id="name" required data-validation-required-message="氏名を入力して下さい">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="フリガナ *" id="phone" required data-validation-required-message="フリガナを入力して下さい">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" class="form-control" placeholder="メールアドレス *" id="email" required data-validation-required-message="メールアドレスを入力して下さい">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <textarea class="form-control" placeholder="本文 *" id="message" required data-validation-required-message="本文を入力して下さい"></textarea>
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-lg-12 text-center">
+                                <div id="success"></div>
+                                <button type="submit" class="btn btn-xl">送信</button>
+                            </div>
+                            <br><br><br><br><br><br>
+                            
+                <div class="col-md-4">
+                    <h4 class="text-muted" style="color: #ff6600;">営業時間</h4>
+                    <p class="text-muted" style="color: #ff6600;">月曜日 14:00 - 22:00
+                    <br>水・木・金曜日 12:00 - 22:00
+                    <br>土曜日 10:00 - 22:00
+                    <br>日曜日 10:00 - 19:00</p>
+                </div>
+                <div class="col-md-4">
+                    <h4 class="text-muted" style="color: #ff6600;">Eメール</h4>
+                    <p class="text-muted" style="color: #ff6600;">realizenglish@gmail.com
+                    <br>contact@realizeenglish.com</p>
+                </div>
+                <div class="col-md-4">
+                    <h4 class="text-muted" style="color: #ff6600;">電話番号</h4>
+                    <p class="text-muted" style="color: #ff6600;">078-200-5920
+                    <br>※少人数のためお電話は大変繋がりにくいです。<br><a href="https://www.realizeenglish.com/#contact">コンタクトフォーム</a>をご利用下さい。
+                    <br>※当日の予約状況により<br>営業時間が変更します。</p>
+                </div>
+                            <br>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/agency.css" rel="stylesheet">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>  
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/agency.js"></script>
+    <script src="js/contact_me.js"></script>
+</body>
+</html>
