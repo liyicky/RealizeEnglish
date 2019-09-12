@@ -133,7 +133,7 @@
   </div>
 </div>
 <div>
-  <div class="re-content-box" style="width: 375px; line-height: 2;">
+  <div class="re-content-box" style="max-width: 375px; line-height: 2;">
     <span style="white-space:nowrap; font-size: 16px; font-weight: 600; color: rgb(15, 45, 105);">・選べるネイティブ講師と日本人講師(指名料無料)</span>
     <br><span style="white-space:nowrap; font-size: 16px; font-weight: 600; color: rgb(15, 45, 105);">・受付にはフレンドリーな日本人スタッフで安心</span>
     <br><span style="white-space:nowrap; font-size: 16px; font-weight: 600; color: rgb(15, 45, 105);">・全くの初心者も大歓迎!</span>
@@ -584,35 +584,71 @@
                 </div>
             </div>
             <section class="bg-dark p-5">
-              <div class="row">
-                  <div class="col-md-6 mx-auto p-5 bg-white">
-                      <h3 class="mb-4">Contact Form</h3>
-                      <p>This is a sample contact form to demonstrate serverless form handling. </p>
-                      <form name="contact" method="POST" action="https://asia-east2-fit-parity-238102.cloudfunctions.net/contact-form">
+                <div class="row">
+                    <form name="contact" method="POST" action="https://asia-east2-fit-parity-238102.cloudfunctions.net/contact-form">
+                        <div class="row">
+                            <div class="col-lg-12 text-center">
+                            <h4 class="large text-muted"><p class="text-muted" style="color: #ffff00;">
+                                <span style="white-space:nowrap">★【お知らせ】<br></span> <span style="white-space:nowrap">教室のHPのコンタクトフォームが</span> <span style="white-space:nowrap">不調の為一旦休止しています。</span> <span style="white-space:nowrap">メールでご連絡お願いします。</span> <span style="white-space:nowrap">realizenglish@gmail.com</span><br></h4>
+                            </div>
 
-                          <div class="form-group">
-                              <label class="small">Name</label>
-                              <input type="text" name="name" class="form-control" required>
-                          </div>
-                          <div class="form-group">
-                              <label class="small">Email address</label>
-                              <input type="email" name="email" class="form-control" required>
-                          </div>
-                          <div class="form-group">
-                              <label class="small">Subject</label>
-                              <input type="text" name="subject" class="form-control" required>
-                          </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="name">氏名 *</label>
+                                    <input type="text" name="name" class="form-control" placeholder="氏名 *" id="name" required data-validation-required-message="氏名を入力して下さい">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="form-group">
+                                    <label for="phone">フリガナ *</label>
+                                    <input type="text" name="フリガナ" class="form-control" placeholder="フリガナ *" id="phone" required data-validation-required-message="フリガナを入力して下さい">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="form-group">
+                                    <label for="email">メールアドレス *</label>
+                                    <input type="email" name="email" class="form-control" placeholder="メールアドレス *" id="email" required data-validation-required-message="メールアドレスを入力して下さい">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="message">本文 *</label>
+                                    <textarea class="form-control" name="message" placeholder="本文 *" id="message" required data-validation-required-message="本文を入力して下さい"></textarea>
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-lg-12 text-center">
+                            <h4 class="large text-muted"><p class="text-muted" style="color: #ffff00;">
+                                <span style="white-space:nowrap">★2日以内に返信が来ない場合は、</span> <span style="white-space:nowrap">届いていない可能性があるので</span> <span style="white-space:nowrap">メールでご連絡ください。</span><br></h4>
+                                <div id="success"></div>
+                                <button type="submit" class="btn btn-xl">送信</button>
+                            </div>
+                            <br><br><br><br>
 
-                          <div class="form-group">
-                              <label class="small">Message</label>
-                              <textarea name="message" rows="3" class="form-control"></textarea>
-                          </div>
-<!--                           <div class="g-recaptcha my-3" data-sitekey="6LdieK4UAAAAAP86dZ7qC7tDoVBhCjzlIdKJODqO"></div> -->
-                          <button type="submit" class="btn btn-block btn-primary">SUBMIT</button>
-                      </form>
-                  </div>
-              </div>
-          </section>
+                            <br><br>
+                            
+                            <div class="col-md-4">
+                                <h4 class="text-muted" style="color: #ff6600;">営業時間</h4>
+                                <p class="text-muted" style="color: #ff6600;">月曜日 14:00 - 22:00
+                                <br>水・木・金曜日 12:00 - 22:00
+                                <br>土曜日 10:00 - 22:00
+                                <br>日曜日 10:00 - 19:00</p>
+                            </div>
+                            <div class="col-md-4">
+                                <h4 class="text-muted" style="color: #ff6600;">Eメール</h4>
+                                <p class="text-muted" style="color: #ff6600;">realizenglish@gmail.com
+                            </div>
+                            <div class="col-md-4">
+                                <h4 class="text-muted" style="color: #ff6600;">電話番号</h4>
+                                <p class="text-muted" style="color: #ff6600;">078-200-5920 (火曜定休日)
+                                <br>※少人数のためお電話は大変繋がりにくいです。<br><a href="https://www.realizeenglish.com/#contact">コンタクトフォーム</a>をご利用下さい。
+                                <br>※当日の予約状況により<br>営業時間が変更します。</p>
+                            </div>
+                            <br>
+                        </div>
+                    </form>
+                </div>
+            </section>
     </section>
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -633,6 +669,44 @@
             })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
             ga('create', 'UA-17125702-2', 'auto');
             ga('send', 'pageview');
+    </script>
+    <script>
+        $('form[name=contact]').on('submit', function () {
+
+        var _form = $(this);
+        var data = _form.serialize();
+        var btn = _form.find('button[type=submit]');
+        btn.text('Sending...');
+        $.ajax({
+            url: _form.attr('action'),
+            type: _form.attr('method'),
+            dataType: 'json',
+            data: data,
+            success: function (response) {
+                btn.text('SUBMIT');
+                if (response.success) {
+                    
+                    _form.trigger("reset");
+                    alert(response.message);
+
+                    return false;
+                } else {
+                    if (response.message) {
+                        alert(response.message);
+                    } else {
+                        alert('Something wrong. Please try again.');
+                    }
+                }
+                return false;
+            },
+            error: function (err) {
+                btn.text('SUBMIT');
+                console.log(err);
+                return false;
+            }
+        });
+        return false;
+        });
     </script>
 </body>
 </html>
